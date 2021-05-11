@@ -11,7 +11,7 @@
 # production
 /build
 
-/..auth
+src/auth/*
 
 # misc
 .DS_Store
